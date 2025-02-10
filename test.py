@@ -1,7 +1,8 @@
 import numpy as np
 import pandas as pd
 import random
-
+# 这个程序用于帮助理解多维数组
+# This program help to comprehend multidimensional array
 ele = random.randint(1, 100)
 def rand_array():
     arr=[]
